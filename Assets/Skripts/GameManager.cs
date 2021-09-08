@@ -17,7 +17,7 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        unit.SetActive(!(SceneManager.GetActiveScene().buildIndex == 0));
+        
     }
 
     public void Play()
